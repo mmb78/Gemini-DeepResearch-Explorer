@@ -28,9 +28,7 @@ You will need Python 3.9+ and an active Gemini API Key.
 
 2. **Install dependencies**
 
-   pip install -r requirements.txt
-
-   *(Requires streamlit and google-genai)*
+   pip install streamlit google-genai
 
 3. **Set your API Key**
    Export your Gemini API key as an environment variable so the app can detect it securely:
